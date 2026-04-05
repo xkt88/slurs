@@ -1,0 +1,164 @@
+[
+    {
+        "term": "魄",
+        "category": "Racism",
+        "definition": "'魄'是'白鬼'的拼字，指白色的鬼，对白人群体的侮辱性称呼。",
+        "targets": "白色人种"
+    },
+    {
+        "term": "墨人",
+        "category": "Racism",
+        "definition": "'墨人'代指'黑人'，常用于代指黑人群体，含贬义。",
+        "targets": "黑色人种"
+    },
+    {
+        "term": "白叠",
+        "category": "Racism",
+        "definition": "'白叠'是'白爹'的中文谐音，暗示对某种过度崇拜或盲目追随白人群体的现象，常含贬义。",
+        "targets": "白色人种"
+    },
+    {
+        "term": "小仙女",
+        "category": "Sexism",
+        "definition": "在某些情况下被用来指代那些自私自利、双标、让人厌恶的女性。",
+        "targets": "女性群体"
+    },
+    {
+        "term": "绿茶",
+        "category": "Sexism",
+        "definition": "网络用语，用于形容那些在外表上显得清纯、无害，但内心却可能心机深沉、善于利用他人（特别是男性）以达到自己目的的女性。",
+        "targets": "女性群体"
+    },
+    {
+        "term": "龟男",
+        "category": "Sexism",
+        "definition": "形容那些没有自尊、愿意为女性付出一切（哪怕得不到回报）、维护女性特权的男性。",
+        "targets": "男性群体"
+    },
+    {
+        "term": "井盖",
+        "category": "Xenophobia",
+        "definition": "常与'河南人一起使用'，暗示河南人素质低、道德水平差。",
+        "targets": "河南人群体"
+    },
+    {
+        "term": "偷国",
+        "category": "Xenophobia",
+        "definition": "对韩国人的侮辱性用词，来自韩国申遗争议引起的中韩文化纠纷。",
+        "targets": "韩国群体"
+    },
+    {
+        "term": "硬盘人",
+        "category": "Xenophobia",
+        "definition": "意旨外地人，流行于上海人较多之网络，是上海网民对外地人的蔑称。起源于汉语拼音：Wai Di Ren，缩写为WD人，后因网络关键字过滤，改为硬盘人（因WD为硬盘厂商西部数据的缩写）。",
+        "targets": "外地人群体"
+    },
+    {
+        "term": "通信录",
+        "category": "Heterosexism",
+        "definition": "对同性恋群体的简称，常含贬义。",
+        "targets": "同性恋群体"
+    },
+    {
+        "term": "玻璃",
+        "category": "Heterosexism",
+        "definition": "民国六、七十年代台湾社会对男同性恋社群的代称，而玻璃则为男同性恋者的代称。",
+        "targets": "男同性恋群体"
+    },
+    {
+        "term": "龙阳之好",
+        "category": "Heterosexism",
+        "definition": "典故出自《战国策·魏策》中魏王与龙阳君的一段记载，常用于代指男同性恋群体。",
+        "targets": "男同性恋群体"
+    },
+    {
+        "term": "猪精",
+        "category": "Lookism",
+        "definition": "对身材偏胖的群体的侮辱性称呼。",
+        "targets": "肥胖群体"
+    },
+    {
+        "term": "地精",
+        "category": "Lookism",
+        "definition": "身高比较矮的人",
+        "targets": "矮小群体"
+    },
+    {
+        "term": "矮冬瓜",
+        "category": "Lookism",
+        "definition": "形容人矮胖",
+        "targets": "矮胖群体"
+    },
+    {
+        "term": "老古董",
+        "category": "Ageism",
+        "definition": "通常指的是'老家伙'或'老古董'，用于形容某人或某事物过时或老旧，常用于调侃或讽刺。",
+        "targets": "老年群体"
+    },
+    {
+        "term": "熊孩子",
+        "category": "Ageism",
+        "definition": "喜好在做客时破坏他人物品的年少者，父母没有阻止规劝的话会被称作熊父母。",
+        "targets": "儿童群体"
+    },
+    {
+        "term": "老巫婆",
+        "category": "Ageism",
+        "definition": "指性格怪异的老年妇女。",
+        "targets": "老年女性群体"
+    },
+    {
+        "term": "牛马",
+        "category": "Classism",
+        "definition": "网络热词，原指牛和马两种牲畜，网络上用于对现代打工人的调侃和称呼。",
+        "targets": "打工人群体"
+    },
+    {
+        "term": "凤凰男",
+        "category": "Classism",
+        "definition": "农村出身、通过努力进城，但隐含抠门、妈宝、拖累原生家庭的偏见，将阶层流动路径污名化为婚姻风险",
+        "targets": "男性群体"
+    },
+    {
+        "term": "搬砖的",
+        "category": "Classism",
+        "definition": "体力劳动、收入低，以职业隐喻固化阶层边界并消解劳动尊严",
+        "targets": "男性群体"
+    },
+    {
+        "term": "野猪皮",
+        "category": "Ethnicism",
+        "definition": "'努尔哈赤'这个名字在满语中的意思是'野猪皮'‌，后被用于对满族的侮辱性称呼。",
+        "targets": "满族群体"
+    },
+    {
+        "term": "鞑子",
+        "category": "Ethnicism",
+        "definition": "指北方游牧民族，如“蒙古鞑子”、“满洲鞑子”。",
+        "targets": "北方游牧民族"
+    },
+    {
+        "term": "包头佬",
+        "category": "Ethnicism",
+        "definition": "马来西亚华裔藉以当地巫裔女性或锡克人裹头巾文化作为对该族的蔑称。",
+        "targets": "巫裔及锡克人群体"
+    },
+    {
+        "term": "脑残",
+        "category": "Ableism",
+        "definition": "现代网络侮辱语，将脑部损伤或发育障碍作为智力低下的隐喻，强化'生理缺陷=思维缺陷'的偏见",
+        "targets": "脑部损伤或发育障碍群体"
+    },
+    {
+        "term": "抽风",
+        "category": "Ableism",
+        "definition": "对癫痫发作症状的侮辱性描述，将病理现象简化为'发疯'，常用于比喻语境强化对癫痫的恐惧与嘲笑",
+        "targets": "癫痫患者"
+    },
+    {
+        "term": "唐氏",
+        "category": "Ableism",
+        "definition": "当用作简化标签或侮辱语时，将唐氏综合征患者的面部特征作为智力低下的视觉符号，用于网络骂战（如'你长得好唐'）构成严重冒犯",
+        "targets": "唐氏综合征患者"
+    }
+]
